@@ -1,9 +1,9 @@
-import org.example.calculator.ExpressionEvaluator;
+package org.example.calculator;
+
 import org.example.calculator.operator.Operator;
 import org.example.calculator.operator.OperatorUtils;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 

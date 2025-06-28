@@ -1,3 +1,5 @@
+package org.example.calculator;
+
 import org.example.calculator.operator.*;
 
 public class OperatortTest {
